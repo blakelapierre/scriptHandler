@@ -1,0 +1,19 @@
+{
+  "name": "scriptHandler",
+  "version": "1.0.0",
+  "description": "Registers functions to receive <script> tags of a particular type on window load.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakelapierre/scriptHandler.git"
+  },
+  "author": "Blake La Pierre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/blakelapierre/scriptHandler/issues"
+  },
+  "homepage": "https://github.com/blakelapierre/scriptHandler#readme"
+}
