@@ -1,6 +1,6 @@
 {
   "name": "scriptHandler",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Registers functions to receive <script> tags of a particular type on window load.",
   "main": "src/index.js",
   "repository": {
